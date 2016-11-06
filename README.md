@@ -1,8 +1,5 @@
 # LANMessengerPortable
 
-## Todo
-- Compare against released package to ensure all data is up to date
-
 
 ## Build Process
 1. After installing [LAN Messenger](http://lanmsngr.sourceforge.net/downloads.php#windows), copy the files into the `App/LANMessenger/` folder
